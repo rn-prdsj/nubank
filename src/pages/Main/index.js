@@ -88,11 +88,11 @@ export default function Main() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 197.611.524,65</Description>
+              <Description>R$ 524,65</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferêcia de R$ 10.000 recebida de Maria D L A Gomes em 10
+                Transferêcia de R$ 10.00 recebida de Maria D L A Gomes em 10
                 JUN
               </Annotation>
             </CardFooter>
